@@ -1,5 +1,2 @@
 [alias]
-  s = status
-  co = checkout
-  al = add .
-  cmia = commit -a
+  al = 'add .'
